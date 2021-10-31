@@ -1,0 +1,20 @@
+body {
+    background-color:#000080;
+    text-align: center;
+}
+
+.navbar {
+    background-color:  #00BFFF;
+}
+
+a {
+    color:#E6E6FA;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+
+  p{
+	  color: #F0FFF0;
+  }
